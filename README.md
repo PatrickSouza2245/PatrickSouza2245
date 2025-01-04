@@ -65,12 +65,6 @@ Olá me chamo Patrick Souza, tenho 20 anos! Atualmente estou cursando Análise e
          title="MySQL"
          width="40px"
          style="padding-right: 10px;" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-         align="left"
-         alt="MongoDB"
-         title="MongoDB"
-         width="40px"
-         style="padding-right: 10px;" />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
          align="left"
          alt="Node"
