@@ -16,8 +16,7 @@ Olá me chamo Patrick Souza, tenho 20 anos! Atualmente estou cursando Análise e
       <a href="mailto:patricksa2004@gmail.com">
          <img alt="gmail" 
         title="Contato" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-         "/></a>
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    </p>
 
 ---
