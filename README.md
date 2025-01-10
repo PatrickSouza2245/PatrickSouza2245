@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End 💻`**
 
-Olá me chamo Patrick Souza, tenho 20 anos! Sou recém-formado em Análise e Desenvolvimento de Sistemas na UNICSUL, onde descobri minha paixão por tecnologia e em programar!
+Olá me chamo Patrick Souza, tenho 20 anos! Sou formado em Análise e Desenvolvimento de Sistemas na UNICSUL, onde descobri minha paixão por tecnologia e em programar!
 
 <p align="left">
       <a href="https://www.instagram.com/pk_souzx/">
